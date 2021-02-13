@@ -3,3 +3,4 @@ lipsum 1 test
 lipsum 1 test
 update lipsum 1 rebase
 update lipsum 2 rebase
+update lipsum 3 rebase
