@@ -1,20 +1,7 @@
+cc
 create b1
-
 create b2
- 
 *
 remote change at 10:19
 
  
- 
-
-
-
-<<<<<<< HEAD
-
-create b3
- 
-=======
-create b3
-**
->>>>>>> 3f2daac (add **)
