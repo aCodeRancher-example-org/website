@@ -1,4 +1,4 @@
-create b
+create b...
 create b1
 create b2
 *
